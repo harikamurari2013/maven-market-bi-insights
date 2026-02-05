@@ -13,6 +13,8 @@ Analyze sales performance across regions/products/time to identify revenue drive
 
 ## Dashboard
 ![Dashboard](images/Performance-Dashboard.png)
+![Dashboard](images/NotesView.png)
+![Dashboard](images/CountriesInformation.png)
 
 ## Key measures (DAX)
 - Total Sales

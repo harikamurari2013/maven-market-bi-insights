@@ -6,9 +6,8 @@ This project delivers an **end-to-end analytical reporting solution** for a mult
 The dashboard enables leadership to monitor **revenue, profitability, transaction volume, and return behavior** across regions, products, and time, while ensuring **model scalability, performance, and analytical correctness**.
 
 ## What’s inside
-- Power BI report: `pbix/Sales_Analytics.pbix`
+- Power BI report: `pbix/MavenMarket_Report.pbix`
 - Dashboard screenshots: `images/`
-- Sample data (if shareable): `data/sample_data.csv`
 
 ## Data model
 ![Model](images/data_model.png)

@@ -1,4 +1,4 @@
-# maven-market-bi-insights
+# retail-performance-analytics
 
 ## Executive Summary
 This project delivers an **end-to-end analytical reporting solution** for a multi-country retail organization (Maven Market), designed using **enterprise data modeling principles** and **production-grade Power BI practices**.
